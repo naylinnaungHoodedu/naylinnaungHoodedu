@@ -1,0 +1,84 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nay Linn Aung industrial AI profile banner</title>
+  <desc id="desc">Industrial neon themed banner highlighting Nay Linn Aung as an industrial AI, robotics, SCADA, machine vision, and full-stack product engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1630"/>
+      <stop offset="1" stop-color="#09152A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="142" y1="0" x2="867" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#7C9CFF"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1C39"/>
+      <stop offset="1" stop-color="#0B1530"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00D4FF" flood-opacity="0.35"/>
+    </filter>
+    <filter id="glowAmber" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#FFB347" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+
+  <g opacity="0.22">
+    <path d="M0 74H1280" stroke="#11335D" stroke-width="1"/>
+    <path d="M0 128H1280" stroke="#11335D" stroke-width="1"/>
+    <path d="M0 182H1280" stroke="#11335D" stroke-width="1"/>
+    <path d="M0 236H1280" stroke="#11335D" stroke-width="1"/>
+    <path d="M122 0V320" stroke="#11335D" stroke-width="1"/>
+    <path d="M274 0V320" stroke="#11335D" stroke-width="1"/>
+    <path d="M426 0V320" stroke="#11335D" stroke-width="1"/>
+    <path d="M578 0V320" stroke="#11335D" stroke-width="1"/>
+    <path d="M730 0V320" stroke="#11335D" stroke-width="1"/>
+    <path d="M882 0V320" stroke="#11335D" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.8">
+    <circle cx="96" cy="88" r="3" fill="#00D4FF"/>
+    <circle cx="136" cy="88" r="3" fill="#00D4FF"/>
+    <circle cx="176" cy="88" r="3" fill="#00D4FF"/>
+    <path d="M96 88H176" stroke="#00D4FF" stroke-width="2"/>
+    <path d="M176 88V148H238" stroke="#00D4FF" stroke-width="2"/>
+    <circle cx="238" cy="148" r="4" fill="#00D4FF"/>
+
+    <circle cx="1020" cy="58" r="3" fill="#FFB347"/>
+    <circle cx="1060" cy="58" r="3" fill="#FFB347"/>
+    <path d="M1020 58H1060V104H1100" stroke="#FFB347" stroke-width="2"/>
+    <circle cx="1100" cy="104" r="4" fill="#FFB347"/>
+  </g>
+
+  <path d="M142 102H867" stroke="url(#line)" stroke-width="2.5" filter="url(#glowCyan)"/>
+  <path d="M142 221H594" stroke="#173561" stroke-width="1.5"/>
+
+  <rect x="62" y="54" width="42" height="42" rx="10" stroke="#00D4FF" stroke-width="2" fill="#0A1A33"/>
+  <path d="M74 74H92" stroke="#00D4FF" stroke-width="2"/>
+  <path d="M83 65V83" stroke="#00D4FF" stroke-width="2"/>
+
+  <text x="142" y="86" fill="#7EEAFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="5">INDUSTRIAL AI PROFILE</text>
+  <text x="142" y="152" fill="#F5FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="1">NAY LINN AUNG</text>
+  <text x="142" y="192" fill="#A9C6FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Industrial AI | Robotics | SCADA | Machine Vision | Full-Stack Products</text>
+  <text x="142" y="245" fill="#D7E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">OT-to-IT systems builder for production automation, applied ML, and technical product delivery.</text>
+
+  <g filter="url(#glowCyan)">
+    <rect x="918" y="56" width="288" height="64" rx="18" fill="url(#chip)" stroke="#1E4C8E"/>
+    <text x="946" y="84" fill="#7EEAFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">EXPERIENCE</text>
+    <text x="946" y="106" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">12+ Years</text>
+  </g>
+
+  <g filter="url(#glowCyan)">
+    <rect x="918" y="130" width="288" height="64" rx="18" fill="url(#chip)" stroke="#1E4C8E"/>
+    <text x="946" y="158" fill="#7EEAFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">DELIVERY FOOTPRINT</text>
+    <text x="946" y="180" fill="#F7FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">6 Countries</text>
+  </g>
+
+  <g filter="url(#glowAmber)">
+    <rect x="918" y="204" width="288" height="64" rx="18" fill="url(#chip)" stroke="#5D4A1F"/>
+    <text x="946" y="232" fill="#FFD28A" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3">CURRENT DEGREE</text>
+    <text x="946" y="254" fill="#FFF5E8" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">M.S. CS @ Hood</text>
+  </g>
+</svg>
