@@ -1,6 +1,6 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Nay Linn Aung industrial AI profile banner</title>
-  <desc id="desc">Industrial neon themed banner highlighting Nay Linn Aung as an industrial AI, robotics, SCADA, machine vision, and full-stack product engineer.</desc>
+  <desc id="desc">Industrial neon themed banner highlighting Nay Linn Aung as an industrial AI, robotics, SCADA, machine vision, and full-stack AI product engineer.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#07111F"/>
@@ -53,7 +53,7 @@
   </g>
 
   <path d="M142 102H867" stroke="url(#line)" stroke-width="2.5" filter="url(#glowCyan)"/>
-  <path d="M142 221H594" stroke="#173561" stroke-width="1.5"/>
+  <path d="M142 221H664" stroke="#173561" stroke-width="1.5"/>
 
   <rect x="62" y="54" width="42" height="42" rx="10" stroke="#00D4FF" stroke-width="2" fill="#0A1A33"/>
   <path d="M74 74H92" stroke="#00D4FF" stroke-width="2"/>
@@ -61,8 +61,8 @@
 
   <text x="142" y="86" fill="#7EEAFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="5">INDUSTRIAL AI PROFILE</text>
   <text x="142" y="152" fill="#F5FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="1">NAY LINN AUNG</text>
-  <text x="142" y="192" fill="#A9C6FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Industrial AI | Robotics | SCADA | Machine Vision | Full-Stack Products</text>
-  <text x="142" y="245" fill="#D7E7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500">OT-to-IT systems builder for production automation, applied ML, and technical product delivery.</text>
+  <text x="142" y="192" fill="#B7D0FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Industrial AI | Robotics | SCADA | AI Products</text>
+  <text x="142" y="245" fill="#E7F1FF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">OT-to-IT systems builder across automation, applied ML, and full-stack delivery.</text>
 
   <g filter="url(#glowCyan)">
     <rect x="918" y="56" width="288" height="64" rx="18" fill="url(#chip)" stroke="#1E4C8E"/>
