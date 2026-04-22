@@ -1,6 +1,6 @@
 # Nay Linn Aung
 
-Industrial AI, robotics, SCADA, machine vision, and full-stack AI product engineer connecting OT systems with applied ML and software delivery.
+Industrial AI and robotics engineer building production systems across PLC/SCADA, machine vision, explainable AI, and full-stack software delivery.
 
 <!-- profile-readme-refresh: 2026-04-22 -->
 
@@ -10,9 +10,9 @@ Industrial AI, robotics, SCADA, machine vision, and full-stack AI product engine
 
 ## What I Build
 
-I build production systems where operational technology meets modern software, spanning industrial automation, SCADA, collaborative robotics, machine vision, applied AI, and productized web platforms.
+I build production systems where PLC/SCADA, machine vision, robotics, and applied AI have to move beyond prototypes into software that can be deployed, operated, and trusted in real environments.
 
-My background bridges PLC logic, controls integration, industrial networks, and plant-floor delivery with machine learning, explainable AI, LLM-enabled workflows, and full-stack product execution.
+My background bridges plant-floor controls, OT networks, RTU/SCADA infrastructure, collaborative robotics, explainable AI, and full-stack delivery, allowing me to translate industrial complexity into deployable software.
 
 ## Selected Impact
 
